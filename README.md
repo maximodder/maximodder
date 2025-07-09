@@ -1,20 +1,31 @@
-# PES 6 en Linux - Proyecto Maximodder 🎮🐧
+# PES 6 en Linux – Proyecto de Maximodder 🎮🐧
 
-Este es un espacio personal para documentar cómo correr, modificar e instalar Pro Evolution Soccer 6 en Linux usando Wine, mods y parches.
+Este es un proyecto personal donde explico cómo instalar, configurar y ejecutar Pro Evolution Soccer 6 en Linux (Ubuntu/Debian), usando Wine de 32-bit, y aplicando parches de temporada actual.
 
-## Objetivo
+## 🎯 Objetivo
 
-- Instalar PES 6 en Linux (32-bit con Wine)
-- Aplicar parches de temporada 23/24
-- Documentar errores comunes y cómo resolverlos
-- Compartir mejoras y mods
+- Instalar PES 6 sin errores
+- Usar un prefix de Wine de 32 bits
+- Solucionar errores comunes
+- Ejecutar el juego desde un acceso directo (`.desktop`)
+- Aplicar parches/mods sin romper el juego
 
-## Estado
+## 📂 Contenido del repositorio
 
-🚧 En construcción  
-Hecho con sudor, errores y terminal.
+- `pes6.desktop`: acceso directo para lanzar el juego
+- `install.sh`: script de instalación base (opcional)
+- `wine-setup.txt`: pasos que usé para configurar Wine
+- `errores-comunes.md`: guía con errores frecuentes y cómo solucionarlos
+- `dat/`: archivos del parche
+- `screenshots/`: capturas del juego funcionando
 
----
+## ⚠️ Requisitos
 
-**By Maximodder**  
-¡Bienvenidos a mi caos técnico!
+- Linux (recomendado Ubuntu o derivados)
+- Wine de 32 bits
+- Juego original (o copia funcional con archivos `.afs` completos)
+
+## 💬 Contacto
+
+Si te sirvió, poné ⭐ al repo y escribime por issues.  
+**Hecho por Maxi – alias `maximodder`**
